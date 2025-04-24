@@ -1,3 +1,4 @@
 .env
 linked_users.json
 venv
+.venv
